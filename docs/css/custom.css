@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+*::after {
+   content: none !important;
+}
+*::before {
+   content: none !important;
+}
